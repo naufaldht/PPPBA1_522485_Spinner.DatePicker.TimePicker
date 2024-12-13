@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Reservasi Ticket Intent App</string>
+    <string name="pemesanan_tiket_kereta">Pemesanan Tiket Kereta</string>
+    <string name="nama_pemesan">Nama Pemesan</string>
+    <string name="jam_keberangkatan">Jam Keberangkatan</string>
+    <string name="pilih_tanggal_keberangkatan">Pilih Tanggal Keberangkatan</string>
+    <string name="tujuan">Tujuan</string>
+    <string name="pesan_tiket">Pesan Tiket</string>
+    <string name="reservation_ticket">Berhasil Mendapatkan Tiket !</string>
+    <string name="nama">Nama</string>
+    <string name="jam">Jam</string>
+    <string name="Tanggal">Tanggal</string>
+    <string name="Tujuan">Tujuan</string>
+    <string name="titik_dua">:</string>
+</resources>
